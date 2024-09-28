@@ -2,11 +2,11 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.ashmitagarwal.shopping-mvc-easy-no-xml</groupId>
-	<artifactId>shopping-mvc-easy-no-xml</artifactId>
+	<groupId>com.ashmitagarwal.shopping-mvc-no-xml-easy</groupId>
+	<artifactId>shopping-mvc-no-xml-easy</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shopping-mvc-easy-no-xml Maven Webapp</name>
+	<name>shopping-mvc-no-xml-easy Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<!-- Dynamic Web Module 6.0 requires Java 11 or newer -->
 	<properties>
@@ -44,6 +44,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>shopping-mvc-easy-no-xml</finalName>
+		<finalName>shopping-mvc-no-xml-easy</finalName>
 	</build>
 </project>

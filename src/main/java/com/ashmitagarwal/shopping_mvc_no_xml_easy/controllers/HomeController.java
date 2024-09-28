@@ -1,4 +1,4 @@
-package com.ashmitagarwal.shopping_mvc_easy_no_xml.controllers;
+package com.ashmitagarwal.shopping_mvc_no_xml_easy.controllers;
 
 import java.util.Map;
 

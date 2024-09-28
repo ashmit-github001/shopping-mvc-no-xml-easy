@@ -1,4 +1,4 @@
-package com.ashmitagarwal.shopping_mvc_easy_no_xml.config;
+package com.ashmitagarwal.shopping_mvc_no_xml_easy.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
